@@ -1,12 +1,27 @@
-# React + Vite
+🛍️ E-Commerce 
+A fully functional, real-world e-commerce website built using React. This project demonstrates scalable architecture, modern UI practices, and essential e-commerce functionality, including:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔧 Features
+Product Listing & Categories: Dynamic routing for product pages and category filtering.
 
-Currently, two official plugins are available:
+Shopping Cart 🛒: Add, remove, and update items with a responsive cart UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React Hooks & State Management: Built using React Hooks, and Context API or Redux for global state management.
 
-## Expanding the ESLint configuration
+Authentication: User login/signup with optional Firebase integration.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Payment Integration: Checkout flow using Stripe (test mode).
+
+Responsive UI: Styled with Tailwind CSS / Material UI / custom CSS.
+
+Clean Code & Performance: Modular components, lazy loading, and optimized rendering.
+
+# Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
+cd frontend
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
