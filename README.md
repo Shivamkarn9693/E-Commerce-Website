@@ -18,7 +18,6 @@ Clean Code & Performance: Modular components, lazy loading, and optimized render
 
 # Clone the repository
 git clone https://github.com/your-username/your-repo-name.git
-cd frontend
 
 # Install dependencies
 npm install
